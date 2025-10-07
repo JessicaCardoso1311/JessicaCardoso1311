@@ -1,9 +1,10 @@
 #Jéssica 
 
 ## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-cardoso-05a0a3370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0E1lCQmLRSyjiIghik41cg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-cardoso-05a0a3370/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JessicaCardoso1311)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](jessicacardoso2836@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:jessicacardoso2836@gmail.com)
+
 ## Habilidades
 
 ## GitHub 
@@ -33,10 +34,5 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaCardoso1311&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JessicaCardoso1311&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true)
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JessicaCardoso1311&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaCardoso1311&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true)
 
