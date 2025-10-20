@@ -11,7 +11,7 @@
 ### 👋 Olá! Sou a Jéssica Cardoso.
 
 <p>
-  Atualmente, estou focada nos estudos para me tornar uma **Analista de Dados**, transformando dados brutos em insights valiosos e soluções de negócio. Abaixo estão algumas das tecnologias e ferramentas que estou aprendendo e utilizando no meu dia a dia.
+  Atualmente, estou focada nos estudos para me tornar uma Analista de Dados, transformando dados brutos em insights valiosos e soluções de negócio. Abaixo estão algumas das tecnologias e ferramentas que estou aprendendo e utilizando no meu dia a dia.
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas em Foco:
